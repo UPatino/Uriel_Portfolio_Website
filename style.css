@@ -1,0 +1,34 @@
+p {
+    font-size: 18px;
+    font-weight: 5px;
+}
+
+.welcome {
+    text-align: center;
+}
+
+.About-1{
+    margin: auto;
+    font-weight: 5px;
+    font-size: 20px;
+    text-align: center;
+    background-color: lightsalmon;
+    
+}
+.About-2 {
+    margin: auto;
+    text-align: center;
+    font-weight: 10px;
+    background-color: lightcyan;
+    color: black;
+}
+nav {
+    margin: auto;
+    text-align: right;
+    color: blue;
+    background-color: transparent;
+}
+ 
+.description {
+    text-align: center;
+}
