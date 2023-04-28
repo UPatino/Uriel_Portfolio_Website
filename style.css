@@ -1,13 +1,29 @@
+body {
+    background: rgb(3,2,245);
+background: linear-gradient(0deg, rgba(3,2,245,1) 0%, rgba(3,241,244,1) 100%);
+}
+
 p {
     font-size: 18px;
     font-weight: 5px;
 }
 
 .welcome {
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
     text-align: center;
+    background-color: cornflowerblue;
+    border-radius: 50px;
+    border: 1px solid;
+    padding: 10px;
+    width: 800px;
+    height: 50px;
 }
 
 .About-1{
+    border: 1px solid;
+    border-radius: 50px;
     margin: auto;
     font-weight: 5px;
     font-size: 20px;
@@ -17,7 +33,40 @@ p {
 }
 .About-2 {
     margin: auto;
+    border: 1px solid;
+    border-radius: 20px;
     text-align: center;
+    font-weight: 10px;
+    background-color: lightcyan;
+    color: black;
+}
+.project {
+    margin-top: auto;
+    border-radius: 50px;
+    border: 1px solid;
+    text-align: center;
+    background-color: lightsalmon;
+}
+.skill {
+    margin-top: auto;
+    border-radius: 50px;
+    border: 1px solid;
+    text-align: center;
+    background-color: lightsalmon;
+}
+.hire-me {
+    margin-top: auto;
+    border-radius: 50px;
+    border: 1px solid;
+    text-align: center;
+    background-color: lightsalmon;
+}
+.hire {
+    margin: auto;
+    border: 1px solid;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 20px;
     font-weight: 10px;
     background-color: lightcyan;
     color: black;
