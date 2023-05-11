@@ -523,8 +523,13 @@ form button{
    display: inline-block;
 }
 
-
-
+/* copyright styling */
+.copyright{
+   font-size: 16px;
+   font-family: 'Poppins',sans-serif;
+   font-weight: 600;
+   margin-left: 20px;
+}
 
 
 
